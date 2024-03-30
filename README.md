@@ -18,14 +18,15 @@
     <img src="https://img.shields.io/badge/sharaf5-DM-lightblue.svg?logo=discord&logoColor=lightblue">
 </a>
 
-
-<p align="center">
+<!--
+<p align="left">
+<a href="https://discord.com/channels/@sharaf5">
   <img alt="GitHub latest commit" src="https://img.shields.io/github/last-commit/Sharaf5/Sharaf5">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sharaf5/Sharaf5">
-  <img alt="Github all releases" src="https://img.shields.io/github/downloads/Sharaf5/Sharaf5/total.svg"><br>
-  <img src="https://repobeats.axiom.co/api/embed/1e2de9818de3228b86792d2cfc1bb0cd9fe9d5e4.svg" alt="Repobeats analytics image">
+  <img alt="Github all releases" src="https://img.shields.io/github/downloads/Sharaf5/total.svg"><br>
+</a>
 </p>
-
+-->
 
 
 <a href="https://github.com/Sharaf5">
@@ -36,6 +37,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaf5&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
 
+<!--
+<br/><br/>
+<img src="https://repobeats.axiom.co/api/embed/1e2de9818de3228b86792d2cfc1bb0cd9fe9d5e4.svg" alt="Repobeats analytics image">
+-->
 
 <!--
 **Sharaf5/Sharaf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
