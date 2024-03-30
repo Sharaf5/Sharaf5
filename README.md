@@ -19,6 +19,14 @@
 </a>
 
 
+<p align="center">
+  <img alt="GitHub latest commit" src="https://img.shields.io/github/last-commit/Sharaf5/Sharaf5">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Sharaf5/Sharaf5">
+  <img alt="Github all releases" src="https://img.shields.io/github/downloads/Sharaf5/Sharaf5/total.svg"><br>
+  <img src="https://repobeats.axiom.co/api/embed/1e2de9818de3228b86792d2cfc1bb0cd9fe9d5e4.svg" alt="Repobeats analytics image">
+</p>
+
+
 
 <a href="https://github.com/Sharaf5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharaf5&count_private=true&show_icons=true&theme=chartreuse-dark" />
