@@ -30,11 +30,15 @@
 <br/>
 
 <a href="https://github.com/Sharaf5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharaf5&count_private=true&show_icons=true&theme=chartreuse-dark" />
+    <img src="https://ghstats.dev/api/card?username=sharaf5&border_radius=10" alt="GitHub Stats Card" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharaf5&count_private=true&show_icons=true&theme=chartreuse-dark" /> -->
 </a>
 
+<br/>
+
 <a href="https://github.com/Sharaf5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaf5&layout=compact&theme=chartreuse-dark&langs_count=8" />
+    <img src="https://ghstats.dev/api/langs?username=sharaf5&border_radius=10" alt="Top Languages" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharaf5&layout=compact&theme=chartreuse-dark&langs_count=8" /> -->
 </a>
 
 <!--
